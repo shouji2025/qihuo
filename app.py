@@ -7,7 +7,7 @@ import datetime
 import numpy as np
 
 st.set_page_config(page_title="研报级量化终端", layout="wide")
-plt.rcParams['font.sans-serif'] = ['SimHei', 'Arial Unicode MS']
+plt.rcParams['font.sans-serif'] = ['SimHei', 'WenQuanYi Zen Hei', 'Arial Unicode MS']
 plt.rcParams['axes.unicode_minus'] = False
 
 RELATED_SYMBOLS = {
